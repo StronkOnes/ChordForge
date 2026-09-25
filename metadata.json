@@ -1,0 +1,6 @@
+{
+  "name": "ChordForge - VST3 MIDI Chord Generator",
+  "description": "Professional Windows VST3 MIDI chord generator and progression builder with music theory engine, voice leading, and Ableton/FL Studio export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
